@@ -1,4 +1,4 @@
-**backtracking function example
+#backtracking function example
 function dfs(start_index, [...additional states]):
 
     if is_leaf(start_index):
